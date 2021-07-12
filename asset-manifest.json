@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sensores-qa-cml/static/css/main.2daef727.chunk.css",
+    "main.js": "/sensores-qa-cml/static/js/main.3f90723e.chunk.js",
+    "main.js.map": "/sensores-qa-cml/static/js/main.3f90723e.chunk.js.map",
+    "runtime-main.js": "/sensores-qa-cml/static/js/runtime-main.15f6bf82.js",
+    "runtime-main.js.map": "/sensores-qa-cml/static/js/runtime-main.15f6bf82.js.map",
+    "static/js/2.f12fb059.chunk.js": "/sensores-qa-cml/static/js/2.f12fb059.chunk.js",
+    "static/js/2.f12fb059.chunk.js.map": "/sensores-qa-cml/static/js/2.f12fb059.chunk.js.map",
+    "static/js/3.5e657ae2.chunk.js": "/sensores-qa-cml/static/js/3.5e657ae2.chunk.js",
+    "static/js/3.5e657ae2.chunk.js.map": "/sensores-qa-cml/static/js/3.5e657ae2.chunk.js.map",
+    "index.html": "/sensores-qa-cml/index.html",
+    "static/css/main.2daef727.chunk.css.map": "/sensores-qa-cml/static/css/main.2daef727.chunk.css.map",
+    "static/js/2.f12fb059.chunk.js.LICENSE.txt": "/sensores-qa-cml/static/js/2.f12fb059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f6bf82.js",
+    "static/js/2.f12fb059.chunk.js",
+    "static/css/main.2daef727.chunk.css",
+    "static/js/main.3f90723e.chunk.js"
+  ]
+}
